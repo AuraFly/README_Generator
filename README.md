@@ -35,6 +35,6 @@
   [Contact Me](mailto:JordanJco@gmail.com)
 
   # License
-  This application is covered under the Apache--2.0 open source license.
+  This application is covered under the MIT open source license.
 
   
