@@ -22,7 +22,7 @@
   Navigate to the project directory using a terminal and run 'node index.js'. This will kick off the inquirer script that will ask several questions. Answer them as best possible. If you do not know how to answer a question, you can leave it blank.
 
   Link to video tutorial:
-  [Video Tutorial](https://drive.google.com/drive/folders/1WBMk0Wfmyrgqs909A6Qgy4hiXJmc0Wh0?usp=sharing)
+  [Video Tutorial](https://drive.google.com/file/d/1RYRnUSfu7ROOhdtZ9whkOBfzBqJV8XRm/view?usp=sharing)
 
   # Contribution
   Open to any and all contributions!
